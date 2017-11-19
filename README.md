@@ -1,6 +1,6 @@
-# vuetwo
+# SE-Project
 
-> A Vue.js project
+> A Vue.js project depends on Webpack, Karma and Mocha
 
 ## Build Setup
 
