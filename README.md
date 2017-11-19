@@ -2,6 +2,17 @@
 
 > A Vue.js project depends on Webpack, Karma and Mocha
 
+## Account
+username:123
+password:zzt
+
+username:234
+password:dcyy
+
+username:345
+password:abc
+
+
 ## Login interface
 ![](https://github.com/zztttt/SE-Project-Vue-Frame/blob/master/image/1.png)  
 
