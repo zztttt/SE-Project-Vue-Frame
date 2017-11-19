@@ -6,7 +6,7 @@
 ![](https://github.com/zztttt/SE-Project-Vue-Frame/blob/master/image/1.png)  
 
 ## Registration interface  
-![](https://github.com/zztttt/SE-Project-Vue-Frame/tree/master/image/2.png)  
+![](https://github.com/zztttt/SE-Project-Vue-Frame/tree/master/image/2.png) 
 
 ## Build Setup
 
