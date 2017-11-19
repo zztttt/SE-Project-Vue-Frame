@@ -1,11 +1,11 @@
-## Login and registration system
+# Login and registration system
 
 > A Vue.js project depends on Webpack, Karma and Mocha
 
-# Login interface
+## Login interface
 ![](https://github.com/zztttt/SE-Project-Vue-Frame/image/1.png)
 
-# Registration interface
+## Registration interface
 ![](https://github.com/zztttt/SE-Project-Vue-Frame/image/2.png)
 
 ## Build Setup
